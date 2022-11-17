@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to find me: 
   - :e-mail:  mehmetaliksgn@gmail.com
-  - [Linked in](https://www.linkedin.com/in/mehmetalikesgin?original_referer=)
+  - [LinkedIn](https://www.linkedin.com/in/mehmetalikesgin?original_referer=)
