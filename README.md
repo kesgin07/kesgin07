@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to find me: 
   - :e-mail:  mehmetaliksgn@gmail.com
-  - :linkedin:  [Linked in](www.linkedin.com/in/mehmetalikesgin)
+  - 🔗 [Linked in](www.linkedin.com/in/mehmetalikesgin)
 
 
   - :bulb: [Medium articles](https://medium.com/@nathan_86977/)
