@@ -13,4 +13,4 @@ Here are some ideas to get you started:
   - [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/mehmetalikesgin]
   - <a href="https://linkedin.com/in/nathanColton" target="blank"><img align="center" src="https://raw.githubusercontent.com/nathanColton/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanColton" height="30" width="40" /></a>
 
-![[LinkedIn Badge]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
+![LinkedIn Badge]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
