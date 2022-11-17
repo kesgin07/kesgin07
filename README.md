@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to find me: 
   - :e-mail:  mehmetaliksgn@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/mehmetalikesgin?original_referer=)
+  - [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/mehmetalikesgin]
