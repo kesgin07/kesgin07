@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to find me:     www.linkedin.com/in/mehmetalikesgin
 
 - 📫 How to find me: 
-  -  :e-mail:  [mail](mehmetaliksgn@gmail.com)
+  - :e-mail:  [mail] mehmetaliksgn@gmail.com
   - :bulb: [Medium articles](https://medium.com/@nathan_86977/)
   - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/nathancolton/)
